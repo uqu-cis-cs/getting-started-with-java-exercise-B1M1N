@@ -17,4 +17,9 @@ class App
     {
         System.out.println( "Hello Bashar 443011894!" );
     }
+
+    @Override
+    public String toString() {
+        return "App []";
+    }
 }
