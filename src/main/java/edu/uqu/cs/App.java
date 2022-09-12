@@ -11,15 +11,11 @@ package edu.uqu.cs;
  *      b.	Change <Student ID> to your student ID
  */
  
-class App 
+public class App 
 {
     public static void main( String[] args )
     {
         System.out.println( "Hello Bashar 443011894!" );
     }
 
-    @Override
-    public String toString() {
-        return "App []";
     }
-}
